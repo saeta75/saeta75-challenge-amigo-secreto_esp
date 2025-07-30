@@ -1,4 +1,4 @@
-<h1>Amigo Secreto</h1>
+<h1 align="center">Amigo Secreto</h1>
 
 <p>
   Se desarrollo una aplicación en Javacript
